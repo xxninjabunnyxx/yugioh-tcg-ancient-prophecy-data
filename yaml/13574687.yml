@@ -1,0 +1,30 @@
+---
+id: 13574687
+name: Turbo Cannon
+type: Synchro Monster
+frameType: synchro
+desc: |-
+  "Turbo Rocket" + 1 or more non-Tuner monsters
+  Once per turn, you can destroy 1 face-up monster on the field and inflict damage to its controller equal to half of its ATK.
+atk: 0
+def: 0
+level: 3
+race: Machine
+attribute: FIRE
+card_sets:
+- set_name: Ancient Prophecy
+  set_code: ANPR-EN041
+  set_rarity: Super Rare
+  set_rarity_code: "(SR)"
+  set_price: '2.17'
+card_images:
+- id: 13574687
+  image_url: https://images.ygoprodeck.com/images/cards/13574687.jpg
+  image_url_small: https://images.ygoprodeck.com/images/cards_small/13574687.jpg
+  image_url_cropped: https://images.ygoprodeck.com/images/cards_cropped/13574687.jpg
+card_prices:
+- cardmarket_price: '6.04'
+  tcgplayer_price: '5.42'
+  ebay_price: '3.95'
+  amazon_price: '2.73'
+  coolstuffinc_price: '0.49'
